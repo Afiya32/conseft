@@ -1,2 +1,7 @@
 *{margin: 0px;
 padding: 0px;}
+.test{
+  color: blue;
+  /*----hover ar cursor image add kora----*/
+  cursor: url("icon.jpg"),auto;
+}
