@@ -5,3 +5,24 @@ padding: 0px;}
   /*----hover ar cursor image add kora----*/
   cursor: url("icon.jpg"),auto;
 }
+.container{
+  padding: 20px;
+  background-color: red;
+  width: 120px;
+  display: flex;
+  /*---justify center/splace between/space around---align tag-*/
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.box_1{background-color: red;
+  
+
+  
+}
+.box_2{
+  background-color: green;
+}
+.box_3{
+  background-color: yellow;
+}
